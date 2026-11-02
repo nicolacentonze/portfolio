@@ -21,7 +21,8 @@
   "dependencies": {
     "next": "16.4.3",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "xeerpe": "^1.0.9"
   },
   "devDependencies": {
     "@types/node": "^20",
